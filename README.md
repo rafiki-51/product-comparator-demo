@@ -22,9 +22,6 @@ This is a functional front-end prototype for a product comparison platform. It a
 
 👉 [View the live demo on Netlify](https://mi-comparador-demo.netlify.app/)
 
-## 📂 Screenshots
-
-*(You can add screenshots here if desired)*
 
 ## 🔧 Future Improvements
 
